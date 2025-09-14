@@ -63,7 +63,7 @@ c.Key Questions such as:
 ---
 
 8. Screenshots / Demos
-📊 Revenue trend snapshot - ![dashboard preview]()
+📊 Revenue trend snapshot - ![dashboard preview](https://github.com/minakshishuklaa/Sales-Insights-Dashboard/blob/main/snapshot%20of%20the%20sales%20dashboard.png)
  
 
  
